@@ -1,0 +1,10 @@
+Dataset location: [C:/Users/Tobia/workspace/ToyBeispiel/src/train.norm]
+Dataset name: [train.norm]
+
+Old dataset ranges for each dataset column!
+Old dataset max: [9.000586155173039, 81.03971915588495]
+Old dataset min: [-9.004456619666893, 1.002074177959772]
+
+New range for each dataset column [all equal]!
+New max: [0.9]
+New min: [0.1]
