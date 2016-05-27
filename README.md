@@ -7,4 +7,4 @@ And also contain a full example look at the train.norm and test.norm files (para
 Its my very own and also my 1st implementation of an ANN so please ignore the low performance or update the content as you like.
 Have some fun with it.
 
-Cheers Tobi
+Cheers Brainiac
